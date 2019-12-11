@@ -15,7 +15,6 @@
  */
 package org.japo.java.app;
 
-//import org.japo.java.main.Main;
 /**
  *
  * @author Adrián Bueno Olmedo <adrian.bueno.alum@iescamp.es>
