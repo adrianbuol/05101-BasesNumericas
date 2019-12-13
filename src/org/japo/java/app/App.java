@@ -109,7 +109,7 @@ public final class App {
 //        Transformacion a binario del dato 
         System.out.printf("0b%-17s", Integer.toBinaryString(dato));
 //        Transformacion a octal del dato 
-        System.out.printf("%-8s ", Integer.toOctalString(dato));
+        System.out.printf("0%-8s ", Integer.toOctalString(dato));
 //        Transformacion a Decimal del dato 
         System.out.printf("%-9d", dato);
 //        Transformacion a Hexadecimal del dato
